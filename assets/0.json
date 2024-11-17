@@ -5,16 +5,8 @@
 6.   "seller_fee_basis_points": 500,
 7. "creators": [
 8.     {
-9.         "address": "7KAYTUYJebaebrmE91yJBH3AhCiQMDoRkJMzJNk9yyXE", // ale
-10.         "share": 5
-11.     },
-12.     {
-13.         "address": "DEVELOPER_1_WALLET_ADDRESS", // midi
-14.         "share": 90
-15.     },
-16.     {
-17.         "address": "DEVELOPER_2_WALLET_ADDRESS", // andrea
-18.         "share": 5
-19.     }
+9.         "address": "7KAYTUYJebaebrmE91yJBH3AhCiQMDoRkJMzJNk9yyXE", // change it to mudis
+10.         "share": 100
+11.     }
 20. 
 21. ]
