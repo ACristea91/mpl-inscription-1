@@ -1,0 +1,16 @@
+{
+    "name": "MFAI LIFETIME ACCESS",
+    "symbol": "",
+    "description": "This is an NFT in the Make Flouss Ai collection.",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmPpH5PcsLAmfg7Vrges71Psz2nebakEpE2GUJd1A9JWUe/makeFloussGoldenTicket.gif",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://QmPpH5PcsLAmfg7Vrges71Psz2nebakEpE2GUJd1A9JWUe/makeFloussGoldenTicket.gif",
+                "type": "image/gif"
+            }
+        ],
+        "category": "image"
+    }
+}
